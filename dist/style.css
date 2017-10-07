@@ -115,7 +115,7 @@ text-decoration: none;
 }
 
 .main-menu-list a:hover{
-  color: red;
+ color:white;
   border: 0px solid transparent!important;
   text-decoration: none;
   padding-left: 30px; 
