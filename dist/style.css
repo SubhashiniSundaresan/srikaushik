@@ -25,7 +25,7 @@ End of Style for Section
 Style for Body
 ===================*/
 body{
-  background: url("https://images.unsplash.com/photo-1471201187657-6406da15e43b?") no-repeat center center fixed;
+  
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
